@@ -16,4 +16,4 @@
 
 ## Decompile Binaries
 
-`otool -tv hello > c-machine.txt && otool -tv main > c-machine.txt`
+`otool -tv hello > c-machine.txt && otool -tv hello-plus > cpp-machine.txt&& otool -tv cmd/main > go-machine.txt otool -tv hello-rust > rust-machine.txt`
