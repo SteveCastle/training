@@ -1,4 +1,4 @@
-# Session 1: Comparative Languages
+# Session 1: Comparative Languages and Introduction
 
 In session 1 we will take a look at 4 very different and very popular languages to get a feel for
 some of design choices they each make, and think about the types of problems each would be best
