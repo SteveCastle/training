@@ -1,3 +1,11 @@
+# Session 1: Comparative Languages Introduction
+
+This session is designed simply to familiarize yourself with
+the installation and build process for the languages we will use in this course.
+For fun run a decompile of each language binary to
+get a feel for how much each compiler is doing. Later we will look at how all of
+the compilers work and what makes them different.
+
 ## Compile c hello world
 
 `gcc -o hello hello.c`
